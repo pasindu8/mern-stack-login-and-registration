@@ -13,5 +13,8 @@
     <li>Open your pc terminal or command prompt</li>
     <li>node -v</li>
     <li>npm -v</li>
-    
 </li></ul></li></ul></li>
+<img src="https://drive.google.com/uc?export=view&id=1KM37IJKHyHBrNmgcAk7Ddoqi4accIFbT" width="500"/>
+<li>VS Code Install</li>
+<ul><li>Download <a href="https://code.visualstudio.com/">Visual Studio Code</a></li></ul>
+<li>MongoDB </li>
