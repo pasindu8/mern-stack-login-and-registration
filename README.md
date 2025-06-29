@@ -22,10 +22,14 @@
 </li>
 </ol>
 <h4>Start MERN Project Codeing</h4>
-<h4>1 Create a folder</h4>
-    <p>mkdir webapp</p>
-
-
+<b>Step 1</b>
+<ul><li>Open VS Code</li>
+<li>Open VS Code New Terminal</li></ul>
+<img src="https://drive.google.com/uc?export=view&id=1kniLF9pWKECumFDRx8fTGYH8Fuf1Vqne" width="500"/><br>
+<b>Step 2</b>
+<ul><li>Create a folder</li>
+  <li>Type <span style="color:red;">cd</span></li>
+</ul>
 
 
 
