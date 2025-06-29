@@ -18,3 +18,30 @@
 <li>VS Code Install</li>
 <ul><li>Download <a href="https://code.visualstudio.com/">Visual Studio Code</a></li></ul>
 <li>MongoDB </li>
+
+</li>
+</ol>
+<h4>Start MERN Project Codeing</h4>
+<h4>1 Create a folder</h4>
+    <p>mkdir webapp</p>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
