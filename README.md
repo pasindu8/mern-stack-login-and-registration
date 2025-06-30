@@ -81,6 +81,15 @@ Once both the frontend and backend servers are running:
 <li>Register a New User: Click on the "Register" or "Sign Up" link/button. Fill in the required details (e.g., username, email, password) and submit the form. If successful, you should get a confirmation.</li>
 <li>Login with Registered Credentials: Navigate to the "Login" page. Enter the credentials you just registered. Upon successful login, you should be redirected to a "Home" or "Dashboard" page, indicating you are authenticated.</li>
 <li>Explore Protected Routes: Try navigating to any protected routes (if implemented) without logging in first. You should be redirected to the login page or receive an unauthorized message.</li></ol>
+<h3>🐛 Troubleshooting</h3>
+Encountering issues? Here are some common problems and their solutions:
+<ul><li>npm start or node server.js fails:</li>
+<ul><li>"command not found": Ensure Node.js and npm are installed correctly (node -v, npm -v).</li>
+<li>Missing node_modules: Run npm install in both frontend and backend directories.</li>
+<li>Port already in use: If http://localhost:3000 or http://localhost:5000 are already in use by another application, you'll see an error. You can change the port in your package.json (frontend) or server.js (backend).</li></ul></ul>
+<ul><li></li><ul></ul></ul>
+<ul><li></li><ul></ul></ul>
+<ul><li></li><ul></ul></ul>
 
 
 
